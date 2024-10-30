@@ -1,5 +1,3 @@
-Here’s the converted and structured README:
-
 ---
 
 # Supply Chain Management Platform
@@ -106,5 +104,3 @@ To set up the Supply Chain Management Platform locally, follow these steps:
      
 
 ---
-
-This README should give you everything you need to get started with the Supply Chain Management Platform!
