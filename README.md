@@ -82,7 +82,7 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 - **Shipment Details**
 ![Shipment Details Screenshot](images/Screenshot%202024-12-11%20171231.png)
 
-- **Platform Demo**
+- **Platform Showcase**
 [![Platform Demo](images/Screenshot%202024-12-11%20170823.png)](https://youtu.be/-bgOPcxjmuA)
 
 #### Mobile App
