@@ -6,9 +6,9 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 
 ## Architecture
 ### System Structure 
-![System Architecture](images/Architecture.jpeg)
+![System Architecture](/images/Architecture.jpeg)
 ### Database Structure (ER Diagram)
-![ER Diagram](images/ER%20Diagram.png)
+![ER Diagram](/images/ER%20Diagram.png)
 
 ---
 
@@ -60,27 +60,27 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 
 #### Customer Platform
 - **Login Page**
-![Login Screenshot](images/Screenshot%202024-12-11%20165846.png)
+![Login Screenshot](/images/Screenshot%202024-12-11%20165846.png)
 - **Product Page**
-![Product Screenshot](images/Screenshot%202024-12-11%20170017.png)
+![Product Screenshot](/images/Screenshot%202024-12-11%20170017.png)
 - **Cart Page**
-![Cart Screenshot](images/Screenshot%202024-12-11%20170043.png)
+![Cart Screenshot](/images/Screenshot%202024-12-11%20170043.png)
 
 #### Admin Panel
 - **Login Page**
-![Admin Login Screenshot](images/Screenshot%202024-12-11%20170409.png)
+![Admin Login Screenshot](/images/Screenshot%202024-12-11%20170409.png)
 - **Dashboard**
-![Admin Dashboard Screenshot](images/Screenshot%202024-12-11%20170823.png)
+![Admin Dashboard Screenshot](/images/Screenshot%202024-12-11%20170823.png)
 - **Sales Analytics**
-![Sales Analytics Screenshot](images/Screenshot%202024-12-11%20170915.png)
+![Sales Analytics Screenshot](/images/Screenshot%202024-12-11%20170915.png)
 - **Order Management**
-![Order Management Screenshot](images/Screenshot%202024-12-11%20171149.png)
+![Order Management Screenshot](/images/Screenshot%202024-12-11%20171149.png)
 - **Train Status**
-![Train Status Screenshot](images/Screenshot%202024-12-11%20171023.png)
+![Train Status Screenshot](/images/Screenshot%202024-12-11%20171023.png)
 - **Store Details**
-![Store Details Screenshot](images/StoreDetails.png)
+![Store Details Screenshot](/images/StoreDetails.png)
 - **Shipment Details**
-![Shipment Details Screenshot](images/Screenshot%202024-12-11%20171231.png)
+![Shipment Details Screenshot](/images/Screenshot%202024-12-11%20171231.png)
 
 - **Platform Showcase** 
 [Platform Demo](https://youtu.be/-bgOPcxjmuA)
