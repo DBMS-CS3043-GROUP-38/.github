@@ -82,6 +82,9 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 - **Shipment Details**
 ![Shipment Details Screenshot](images/Screenshot%202024-12-11%20171231.png)
 
+- **Platform Demo**
+[![Platform Demo](images/Screenshot%202024-12-11%20170823.png)](https://youtu.be/-bgOPcxjmuA)
+
 #### Mobile App
 - **Shipment Details**
 ![Shipment Details Screenshot](path/to/shipment_details.png)
@@ -92,9 +95,9 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 
 ## 📦 Project Setup
 
-1. **Clone the Repository**:
+1. **Clone all the Repositories**:
    ```bash
-   git clone https://github.com/your-org/repo-name.git
+   git clone https://github.com/DBMS-CS3043-GROUP-38/repo-name.git
    ```
 
 2. **Set Up Each Component**:
@@ -111,8 +114,7 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 
 ## 🧩 Contribution Guidelines
 
-We welcome contributions to this project. Please read the [Contributing Guide](link-to-contributing-guide) for detailed instructions on how to get started.
-
+We welcome contributions to this project.
 ---
 
 ## 📜 License
