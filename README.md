@@ -76,7 +76,7 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 - **Train Status**
 ![Train Status Screenshot](images/Screenshot%202024-12-11%20171023.png)
 - **Store Details**
-![Store Details Screenshot](images/Screenshot%202024-12-11%20171116.png)
+![Store Details Screenshot](images/StoreDetails.png)
 
 #### Mobile App
 - **Shipment Details**
