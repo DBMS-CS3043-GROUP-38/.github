@@ -73,10 +73,14 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 ![Admin Dashboard Screenshot](images/Screenshot%202024-12-11%20170823.png)
 - **Sales Analytics**
 ![Sales Analytics Screenshot](images/Screenshot%202024-12-11%20170915.png)
+- **Order Management**
+![Order Management Screenshot](images/Screenshot%202024-12-11%20171149.png)
 - **Train Status**
 ![Train Status Screenshot](images/Screenshot%202024-12-11%20171023.png)
 - **Store Details**
 ![Store Details Screenshot](images/StoreDetails.png)
+- **Shipment Details**
+![Shipment Details Screenshot](images/Screenshot%202024-12-11%20171231.png)
 
 #### Mobile App
 - **Shipment Details**
