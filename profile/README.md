@@ -128,5 +128,9 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 
 ---
 
+## 🤝 Contributions
+
+    - **Database**  [dpiyumal2319](https://github.com/dpiyumal2319), [ShakW101](https://github.com/ShakW101), [rashG1](https://github.com/rashG1), [Arthikha](https://github.com/Arthikha), [nchehan](https://github.com/nchehan)
+
 ## 🧩 Contribution Guidelines
 We welcome contributions from the community.
