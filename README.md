@@ -1,106 +1,117 @@
----
-
 # Supply Chain Management Platform
 
-Welcome to our comprehensive *Supply Chain Management Platform! This platform is designed to simplify e-commerce interactions for customers, streamline operations for admins, and optimize logistics for truck drivers. Built using **Node.js, **React, **Flutter, and enhanced with tools like **Material UI, **Tailwind CSS, and **EmailJS*, our platform delivers a powerful and flexible system for managing orders, inventory, shipments, and employee progress.
+Welcome to the **Supply Chain Management Platform**, a comprehensive solution for managing e-commerce interactions, operations, and logistics. This platform simplifies product management for customers, streamlines operations for administrators, and optimizes logistics for truck drivers.
+
+---
+
+## Architecture
+### System Structure 
+![System Architecture](images/Architecture.jpeg)
+### Database Structure (ER Diagram)
+![ER Diagram](images/ER%20Diagram.png)
+
+---
 
 ## 🚀 Features
 
-### 1. E-commerce Platform for Customers
-   - *Product Browsing & Searching*: Customers can view, filter, and search for products by categories.
-   - *Seamless Ordering Process*: Users can add items to their cart and proceed with a smooth checkout experience.
-   - *Route Selection*: Suggested routes are provided to optimize delivery productivity.
-   - *User-friendly Interface*: Built with React and styled with Material UI and Tailwind CSS for a clean, responsive design.
-   - *EmailJS*: Connects the platform with customers and the company via email for notifications and updates.
+### E-commerce Platform for Customers
+- **Product Browsing & Searching**: Easily find products by categories and keywords.
+- **Seamless Ordering**: Add items to the cart and enjoy a smooth checkout process.
+- **Route Selection**: Choose optimized delivery routes.
+- **Responsive Interface**: Built with React, styled using Material UI and Tailwind CSS.
+- **Email Notifications**: Automated emails for order updates and confirmations.
 
-### 2. Admin Panel for Store & Central Hub Managers
-   - *Order Analysis*: View detailed metrics on orders, including sales volume, revenue, and inventory trends.
-   - *Employee Progress Tracking*: Monitor and evaluate employee performance for both store and hub management.
-   - *Dashboard Insights*: An intuitive dashboard with data visualization provides admins with real-time insights and strategic foresight into daily and monthly operations.
-   - *Inventory Management*: Easily update inventory, track stock levels, and manage incoming/outgoing shipments.
+### Admin Panel
+- **Order Insights**: Analyze sales, revenue, and inventory trends.
+- **Performance Monitoring**: Track employee progress and store performance.
+- **Intuitive Dashboard**: Real-time analytics and visualizations.
+- **Inventory Management**: Update stock levels and monitor shipments.
 
-### 3. Mobile App for Truck Drivers
-   - *Shipment Assignment*: Drivers receive assigned shipments directly in their app, including trial assignments.
-   - *Shipment Updates*: Real-time updates on shipment status.
-
-## 🛠 Technologies
-
-### Backend
-- *Node.js & Express*: Manages data processing, order handling, and inventory management for smooth performance.
-- *Database*: Our backend supports SQL/NoSQL databases to ensure scalable and secure data management.
-
-### Frontend
-- *React*: User interface for customers and admin dashboard, providing a seamless and interactive experience.
-- *Material UI* & *Tailwind CSS*: Streamlines the design with responsive components and elegant styles.
-
-### Mobile App
-- *Flutter*: Cross-platform app for truck drivers, designed for both iOS and Android.
-
-### Additional Libraries & Tools
-- *Axios*: For efficient API communication.
-- *Redux*: State management across complex UI components.
-- *React Router*: Enables smooth navigation throughout the platform.
-- *EmailJS*: Used for automated emails, providing real-time order confirmation, shipment updates, and notifications.
-
-## 📦 Installation
-
-To set up the Supply Chain Management Platform locally, follow these steps:
-
-1. *Database Setup*:
-   - Go to SCMS-API/utilities/database/definition_files.
-   - Run all of the .ddl files in the specified order to set up the database schema.
-
-2. *Backend Setup*:
-   - Navigate to SCMS-API/.
-   - Run npm install to install the necessary backend dependencies.
-   - Run npm run initialise-database to populate the database with initial data.
-   - Start the backend server:
-     bash
-     npm start
-     
-   - Start the truck scheduler daemon:
-     bash
-     npm run truck-scheduler
-     
-
-3. *Frontend Setup*:
-   - *Customer UI*:
-     - Navigate to E-Commerce-platform.
-     - Run:
-       bash
-       npm install
-       npm start
-       
-   - *Admin UI*:
-     - Navigate to Admin Dashboard.
-     - Run:
-       bash
-       npm install
-       npm start
-       
-
-4. *Login Credentials*:
-   - Usernames can be found in the *Employee* and *Customer* tables.
-   - Default passwords are:
-     - *Employee - Driver*: Password@Driver
-     - *Admin*: Password@Admin
-     - *Store Manager*: Password@StoreManager
-     - *Customer*: Password@Customer
-
-5. *Simulate Orders* (Optional):
-   - To simulate orders, navigate to SCMS-API/ and run:
-     bash
-     npm run simulate-orders
-
-6. .env format for SCMS-API
-
-    MYSQL_HOST=
-    MYSQL_USER=
-    MYSQL_PASSWORD=
-    MYSQL_DATABASE=scms
-    PORT=
-    HASH_COUNT=10
-    JWT_SECRET=
-     
+### Mobile App for Truck Drivers
+- **Shipment Management**: Drivers receive shipment details and updates.
+- **Real-Time Notifications**: Stay informed about assignment and delivery status.
 
 ---
+
+## 🛠 Technologies Used
+
+### Backend
+- **Node.js & Express**: Robust data processing and API handling.
+- **SQL/NoSQL Databases**: Ensures scalable and secure data management.
+
+### Frontend
+- **React**: Powers the web interfaces.
+- **Material UI** & **Tailwind CSS**: Delivers responsive and elegant designs.
+
+### Mobile
+- **Flutter**: Cross-platform app for iOS and Android.
+
+### Additional Tools
+- **Redux**: State management for complex UI.
+- **EmailJS**: For email notifications.
+- **Axios**: API communication.
+- **React Router**: Streamlined navigation.
+
+---
+
+## 📷 Visual Overview
+
+### Screenshots
+
+#### Customer Platform
+- **Login Page**
+![Login Screenshot](images/Screenshot%202024-12-11%20165846.png)
+- **Product Page**
+![Product Screenshot](images/Screenshot%202024-12-11%20170017.png)
+- **Cart Page**
+![Cart Screenshot](images/Screenshot%202024-12-11%20170043.png)
+
+#### Admin Panel
+- **Login Page**
+![Admin Login Screenshot](images/Screenshot%202024-12-11%20170409.png)
+- **Dashboard**
+![Admin Dashboard Screenshot](images/Screenshot%202024-12-11%20170823.png)
+- **Sales Analytics**
+![Sales Analytics Screenshot](images/Screenshot%202024-12-11%20170915.png)
+- **Train Status**
+![Train Status Screenshot](images/Screenshot%202024-12-11%20171023.png)
+- **Store Details**
+![Store Details Screenshot](images/Screenshot%202024-12-11%20171116.png)
+
+#### Mobile App
+- **Shipment Details**
+![Shipment Details Screenshot](path/to/shipment_details.png)
+- **Assignment Updates**
+![Assignment Updates Screenshot](path/to/assignment_updates.png)
+
+---
+
+## 📦 Project Setup
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-org/repo-name.git
+   ```
+
+2. **Set Up Each Component**:
+   - Follow the specific setup guides in the respective repositories for:
+     - Backend (API)
+     - Admin Frontend
+     - Customer Frontend
+     - Mobile App
+
+3. **Run the Project**:
+   - Ensure all components are running for full functionality.
+
+---
+
+## 🧩 Contribution Guidelines
+
+We welcome contributions to this project. Please read the [Contributing Guide](link-to-contributing-guide) for detailed instructions on how to get started.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.
+
