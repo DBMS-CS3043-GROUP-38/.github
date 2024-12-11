@@ -130,7 +130,17 @@ Welcome to the **Supply Chain Management Platform**, a comprehensive solution fo
 
 ## 🤝 Contributions
 
-    - **Database**  [dpiyumal2319](https://github.com/dpiyumal2319), [ShakW101](https://github.com/ShakW101), [rashG1](https://github.com/rashG1), [Arthikha](https://github.com/Arthikha), [nchehan](https://github.com/nchehan)
+- **Database**: [dpiyumal2319](https://github.com/dpiyumal2319), [ShakW101](https://github.com/ShakW101), [rashG1](https://github.com/rashG1), [Arthikha](https://github.com/Arthikha), [nchehan](https://github.com/nchehan)
+- **Backend API**:
+  - Customer Endpoints - [rashG1](https://github.com/rashG1)
+  - Admin, Store Manager Endpoints - [dpiyumal2319](https://github.com/dpiyumal2319)
+  - Driver, Assistant Endpoints - [ShakW101](https://github.com/ShakW101), [Arthikha](https://github.com/Arthikha)
+  - Truch Schedular Daemon - [nchehan](https://github.com/nchehan)
+- **Admin, Store Manager Frontend**: [dpiyumal2319](https://github.com/dpiyumal2319)
+- **Customer Platform**: [rashG1](https://github.com/rashG1)
+- **Mobile App**: [ShakW101](https://github.com/ShakW101)
+
+Thank you to all the contributors who made this project possible!
 
 ## 🧩 Contribution Guidelines
 We welcome contributions from the community.
